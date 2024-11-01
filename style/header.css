@@ -1,0 +1,25 @@
+.header-bg {
+  background-color: #0B0C12;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  max-width: 1300px;
+  margin: auto;
+}
+
+.header a{
+  font-size: 20;
+  font-weight: 600;
+  color: #F5F7FA;
+  background-color: #242833;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
